@@ -1,9 +1,15 @@
 # vortiuz
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/623b6fbc205f35ac5b1cfaa9e9122b71797b46e1/topics/lua/lua.png" height="80">
-  <img src="https://raw.githubusercontent.com/iluwatar/java-design-patterns/master/java.png" height="80">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="80">
+  <a href="https://www.lua.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="80" alt="Lua">
+  </a>
+  <a href="https://www.oracle.com/java/">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="80" alt="Java">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="80" alt="Python">
+  </a>
 </p>
 
 ## Overview
