@@ -1,6 +1,6 @@
 # vortiuz
 
-<p align="center">
+<p align="left">
   <a href="https://www.lua.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="80" alt="Lua">
   </a>
