@@ -3,7 +3,7 @@
 Familiar with **Lua**, **Java**, and **Python**.
 
 <p align="left">
-  <a href="https://www.lua.org/">
+  <a href="https://www.lua.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="80" alt="Lua">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
