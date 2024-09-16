@@ -16,10 +16,10 @@ Familiar with **Lua**, **Java**, and **Python**.
   </a>
 </p>
 
-## Overview
+## About me
 
-Text
+Systems engineering student
 
-## Projects
+## Contact
 
-Text
+No :)
