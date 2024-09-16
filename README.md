@@ -1,9 +1,9 @@
 # vortiuz
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="80">
-  <img src="https://img.shields.io/badge/-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="80">
-  <img src="https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="80">
+  <img src="https://raw.githubusercontent.com/github/explore/623b6fbc205f35ac5b1cfaa9e9122b71797b46e1/topics/lua/lua.png" height="80">
+  <img src="https://raw.githubusercontent.com/iluwatar/java-design-patterns/master/java.png" height="80">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="80">
 </p>
 
 ## Overview
