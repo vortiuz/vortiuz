@@ -1,4 +1,4 @@
-# vortiuz
+# Elias André
 
 Familiar with **Lua**, **Java**, and **Python**.
 
